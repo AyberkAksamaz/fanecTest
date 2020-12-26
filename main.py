@@ -5,4 +5,3 @@ print("alber2")
 
 print("son deneme")
 print("son deneme2")
-print("emre")
